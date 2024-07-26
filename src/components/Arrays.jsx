@@ -9,7 +9,11 @@ const Arrays = () => {
           Створи функцію, яка приймає масив чисел і повертає масив з тими ж
           числами, але відсортованими в порядку зростання.
         </p>
-        <code className="code">[]</code>
+        <code className="code">[
+            const numbers = [9, 253, 10, 5, 35, 17, 136, 15, 13
+            
+            function ]
+        ]</code>
       </li>
 
       <li>
